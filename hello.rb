@@ -6,5 +6,8 @@ class Singleton
 	
 		puts "this is a singleton class"
 	end
-
+	
+	def hello
+		puts "hello world"
+	end
 end
