@@ -1,7 +1,1 @@
-first
-
-hello world
-
-chan love you
-an
-=====
+this is a test app
