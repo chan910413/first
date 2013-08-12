@@ -1,6 +1,5 @@
 puts "hello world"
 
-
 <<<<<<< HEAD
 class Person
 	def talk
@@ -19,3 +18,7 @@ class Singleton
 	end
 >>>>>>> 5c795288fec913a2eb4901f47538963d53e894fe
 end
+
+hello world
+
+123
